@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/list-randomizer/static/css/main.e6c13ad2.css",
+    "main.js": "/list-randomizer/static/js/main.ada3f31e.js",
+    "static/js/453.9c29b96e.chunk.js": "/list-randomizer/static/js/453.9c29b96e.chunk.js",
+    "static/media/free-rocket-icon.png": "/list-randomizer/static/media/free-rocket-icon.56ceab350caa3d5fdb2b.png",
+    "index.html": "/list-randomizer/index.html",
+    "main.e6c13ad2.css.map": "/list-randomizer/static/css/main.e6c13ad2.css.map",
+    "main.ada3f31e.js.map": "/list-randomizer/static/js/main.ada3f31e.js.map",
+    "453.9c29b96e.chunk.js.map": "/list-randomizer/static/js/453.9c29b96e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ada3f31e.js"
+  ]
+}
